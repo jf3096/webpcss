@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "cwebp": "2.0.1",
-    "postcss": "5.2.5",
+    "postcss": "6.0.14",
     "urldata": "^0.0.1"
   },
   "devDependencies": {
